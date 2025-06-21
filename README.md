@@ -1,1 +1,1 @@
-Food Blog app in Reactjs and Nodejs
+Food Recipe Blog app in Reactjs and Nodejs
